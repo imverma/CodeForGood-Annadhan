@@ -2,8 +2,44 @@
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/slider"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/btnDonate"
+        android:layout_width="135dp"
+        android:layout_height="63dp"
+        android:background="@android:color/holo_red_dark"
+        android:text="Donate"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="382dp" />
+
+    <Button
+        android:id="@+id/btnVolunteer"
+        android:layout_width="135dp"
+        android:layout_height="63dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="Volunteer"
+        tools:layout_editor_absoluteX="209dp"
+        tools:layout_editor_absoluteY="382dp" />
+
+    <HorizontalScrollView
+        android:id="@+id/slider"
+        android:layout_width="355dp"
+        android:layout_height="185dp"
+        android:fillViewport="true"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="93dp">
+
+        <LinearLayout
+            android:id="@+id/slider"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible" />
+    </HorizontalScrollView>
 
 </android.support.constraint.ConstraintLayout>
