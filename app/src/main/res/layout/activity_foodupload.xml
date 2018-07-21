@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FooduploadActivity">
+    <TextView
+        android:id="@+id/tvAnnadhanId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Annadhan Id:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="37dp" />
+
+    <EditText
+        android:id="@+id/etAnnadhanId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/tvNoOfPpl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No of people:"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <EditText
+        android:id="@+id/etNoOfPpl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="136dp"
+        tools:layout_editor_absoluteY="87dp" />
+
+
+    <TextView
+        android:id="@+id/tvWhenCooked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="When Cooked?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="148dp" />
+
+    <RadioGroup
+        android:id="@+id/rgWhenCooked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="148dp" >
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rdMorning"
+            android:text="Morning"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rdAfternoon"
+            android:text="Afternoon"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rdNight"
+            android:text="Nighgt"/>
+    </RadioGroup>
+
+
+    <TextView
+        android:id="@+id/tvRoomTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food temp?"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="257dp"
+        android:id="@+id/rgTemp">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rdRoomTemp"
+            android:text="Room Temp"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rdRefrigerated"
+            android:text="Refrigerated"/>
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tvPacked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Packed?"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+
+
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:id="@+id/rgPacked"
+        tools:layout_editor_absoluteY="335dp"
+        tools:layout_editor_absoluteX="153dp">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Packed"
+            android:id="@+id/rdPacked"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Not Packed"
+           android:id="@+id/rdNotPacked"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/etPickupLoc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Enter Pickup Location"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <Button
+        android:id="@+id/btnPickupLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="467dp" />
+</LinearLayout>
