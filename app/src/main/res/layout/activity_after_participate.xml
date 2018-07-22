@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="378dp"
+        android:layout_height="316dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        app:srcCompat="@drawable/picmap"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="-39dp" />
+
+    <TextView
+        android:id="@+id/tvModeOfTransportation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rgModeOfTransportation"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="61dp"
+        android:text="Mode of Transportation"
+        android:textSize="20dp" />
+
+    <RadioGroup
+        android:id="@+id/rgModeOfTransportation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="81dp"
+        android:layout_marginStart="108dp"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="317dp">
+
+        <RadioButton
+            android:id="@+id/rdPublicTransport"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Public Transport" />
+
+        <RadioButton
+            android:id="@+id/rdTwoWheeler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Two wheeler" />
+
+        <RadioButton
+            android:id="@+id/rdFourWheeler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Four Wheeler" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tvETA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rgModeOfTransportation"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="-81dp"
+        android:text="ETA"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/etETA"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/rgModeOfTransportation"
+        android:layout_marginTop="-81dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textSize="25dp" />
+
+
+    <Button
+        android:id="@+id/btnOk1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/tvETA"
+        android:text="OK"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="463dp" />
+
+
+
+</RelativeLayout>

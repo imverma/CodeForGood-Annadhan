@@ -24,7 +24,7 @@
         android:textSize="20dp"
         android:layout_alignStart="@+id/button2"
         android:layout_centerVertical="true"
-        android:text="Drive at MCDonald's Borivali East"
+        android:text="Drive at Sudarshan's Borivali East"
         tools:background="@android:color/darker_gray" />
 
     <TextView
@@ -35,7 +35,7 @@
         android:layout_alignStart="@+id/button2"
         android:layout_marginTop="22dp"
         android:textSize="20dp"
-        android:text="Drive at MCDonald's Malad East"
+        android:text="Drive at Joey's Malad East"
         tools:background="@android:color/darker_gray" />
 
     <TextView
@@ -46,7 +46,7 @@
         android:layout_below="@+id/button12"
         android:textSize="20dp"
         android:layout_marginTop="-189dp"
-        android:text="Drive at MCDonald's Anderi East"
+        android:text="Drive at Dominos Goregaon Mumbai- 400063"
         tools:background="@android:color/darker_gray" />
 
     <Button

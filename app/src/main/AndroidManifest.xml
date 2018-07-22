@@ -24,7 +24,8 @@
         <activity android:name=".AdminActivity" />
         <activity android:name=".RequestSuccessSubmission" />
         <activity android:name=".VoluteerActivity" />
-        <activity android:name=".BigClusteringDemoActivity"></activity>
+        <activity android:name=".BigClusteringDemoActivity" />
+        <activity android:name=".AfterParticipate"></activity>
     </application>
 
 </manifest>

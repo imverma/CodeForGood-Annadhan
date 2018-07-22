@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -11,8 +11,12 @@
         android:id="@+id/btnDonate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Donate"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="36dp"
+        android:layout_marginEnd="95dp"
         android:background="#1b76d0"
+        android:text="Donate"
         android:textColor="#ffffff"
         tools:layout_editor_absoluteX="47dp"
         tools:layout_editor_absoluteY="395dp" />
@@ -21,10 +25,12 @@
         android:id="@+id/btnVolunteer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="volunteer"
+        android:layout_alignEnd="@+id/textView2"
+
+        android:layout_alignTop="@+id/btnDonate"
         android:background="#1b76d0"
+        android:text="volunteer"
         android:textColor="#ffffff"
-        android:layout_below="@+id/btnDonate"
         tools:layout_editor_absoluteX="202dp"
         tools:layout_editor_absoluteY="395dp" />
 
@@ -32,8 +38,11 @@
         android:id="@+id/tvText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:width="500dp"
+        android:layout_alignParentStart="true"
 
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="46dp"
+        android:width="500dp"
         android:text="What's left is not over !!"
         android:textColor="#0e411e"
         android:textSize="30dp"
@@ -44,6 +53,10 @@
         android:id="@+id/imageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="104dp"
         app:srcCompat="@drawable/annadhan"
         tools:layout_editor_absoluteX="34dp"
         tools:layout_editor_absoluteY="98dp" />
@@ -52,6 +65,10 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="117dp"
+        android:layout_marginStart="72dp"
         android:text="Welcome"
         android:textSize="25dp"
         tools:layout_editor_absoluteX="75dp"
@@ -61,10 +78,13 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="126dp"
         android:text="Donor!!"
         android:textSize="20dp"
         tools:layout_editor_absoluteX="182dp"
         tools:layout_editor_absoluteY="352dp" />
 
 
-</android.support.constraint.ConstraintLayout>
+</RelativeLayout>

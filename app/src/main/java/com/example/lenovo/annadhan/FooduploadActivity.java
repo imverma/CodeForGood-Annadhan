@@ -73,6 +73,9 @@ Button btnPickUpLocation;
         btnPickUpLocation.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent i= new Intent(FooduploadActivity.this,RequestSuccessSubmission.class);
+                startActivity(i);
+
                final String AnnadhanId,No_Of_people,When_cooked,Description,Packed_or_not,Temperature,Pickup_location,Status;
                 AnnadhanId=etAnnadhanId.getText().toString();
                 System.out.println(AnnadhanId);
@@ -139,8 +142,7 @@ Button btnPickUpLocation;
                     }
                 };
                 MySingleton.getInstance(FooduploadActivity.this).addToRequestque(stringRequest);
-                Intent i= new Intent(FooduploadActivity.this,RequestSuccessSubmission.class);
-                startActivity(i);
+
 
             }
 
