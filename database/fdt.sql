@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 21, 2018 at 07:04 PM
+-- Generation Time: Jul 22, 2018 at 02:46 AM
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.2
 
@@ -29,7 +29,8 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `fdt` (
-  `No_of_People` varchar(20) NOT NULL,
+  `Drive_id` varchar(20) NOT NULL,
+  `No_Of_People` varchar(20) NOT NULL,
   `When_cooked` varchar(20) NOT NULL,
   `Description` varchar(20) NOT NULL,
   `Packed_or_not` varchar(20) NOT NULL,
@@ -43,10 +44,10 @@ CREATE TABLE `fdt` (
 -- Dumping data for table `fdt`
 --
 
-INSERT INTO `fdt` (`No_of_People`, `When_cooked`, `Description`, `Packed_or_not`, `Temperature`, `Annadhan_id`, `Pickup_location`, `Status`) VALUES
-('rg', 'rge', 'rge', 'ge', 'eg', 'rg', 'rg', 'rg'),
-('rg', 'rge', 'rge', 'ge', 'eg', 'rjhjkg', 'rg', 'rg'),
-('rg', 'rge', 'rge', 'ge', 'eg', 'rjkg', 'rg', 'rg');
+INSERT INTO `fdt` (`Drive_id`, `No_Of_People`, `When_cooked`, `Description`, `Packed_or_not`, `Temperature`, `Annadhan_id`, `Pickup_location`, `Status`) VALUES
+('fgf', 'rge', 'rge', 'ge', 'eg', 'rjhjkg', 'rg', 'rg', 'verified'),
+('hgm', 'rge', 'rge', 'ge', 'eg', 'rjhjkg', 'rg', 'rg', 'verified'),
+('rg', 'rge', 'rge', 'ge', 'eg', 'rjhjkg', 'rg', 'rg', 'tuy');
 
 --
 -- Indexes for dumped tables
@@ -56,7 +57,18 @@ INSERT INTO `fdt` (`No_of_People`, `When_cooked`, `Description`, `Packed_or_not`
 -- Indexes for table `fdt`
 --
 ALTER TABLE `fdt`
-  ADD PRIMARY KEY (`Annadhan_id`);
+  ADD PRIMARY KEY (`Drive_id`),
+  ADD KEY `Annadhan_id` (`Annadhan_id`);
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `fdt`
+--
+ALTER TABLE `fdt`
+  ADD CONSTRAINT `fdt_ibfk_1` FOREIGN KEY (`Annadhan_id`) REFERENCES `usertable` (`Annadhan_id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
