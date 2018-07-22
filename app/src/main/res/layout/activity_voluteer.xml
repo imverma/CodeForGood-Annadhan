@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Volunteer">
+
+    <TextView
+        android:id="@+id/button2"
+        android:layout_width="181dp"
+        android:layout_height="73dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="122dp"
+        android:layout_toStartOf="@+id/button8"
+        android:text="Drive at MCDonald's Anderi East"
+        android:textSize="20dp"
+        tools:background="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/button3"
+        android:layout_width="181dp"
+        android:layout_height="70dp"
+        android:textSize="20dp"
+        android:layout_alignStart="@+id/button2"
+        android:layout_centerVertical="true"
+        android:text="Drive at MCDonald's Borivali East"
+        tools:background="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/button4"
+        android:layout_width="181dp"
+        android:layout_height="76dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/button2"
+        android:layout_marginTop="22dp"
+        android:textSize="20dp"
+        android:text="Drive at MCDonald's Malad East"
+        tools:background="@android:color/darker_gray" />
+
+    <TextView
+        android:layout_width="181dp"
+
+        android:layout_height="70dp"
+        android:layout_alignStart="@+id/button2"
+        android:layout_below="@+id/button12"
+        android:textSize="20dp"
+        android:layout_marginTop="-189dp"
+        android:text="Drive at MCDonald's Anderi East"
+        tools:background="@android:color/darker_gray" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="98dp"
+        android:layout_height="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="144dp"
+        android:layout_toEndOf="@+id/button2"
+        android:background="#cceaf5"
+        android:text="Participate" />
+
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="98dp"
+        android:layout_height="38dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginEnd="73dp"
+        android:background="#cceaf5"
+        android:text="Participate" />
+
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="99dp"
+        android:layout_height="36dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/button8"
+        android:layout_marginTop="45dp"
+        android:background="#cceaf5"
+        android:text="Participate" />
+
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="99dp"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button6"
+        android:layout_marginBottom="129dp"
+        android:background="#cceaf5"
+        android:text="Participate" />
+
+</RelativeLayout>

@@ -20,7 +20,7 @@ Button btnDonate,btnVolunteer;
      btnVolunteer.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View view) {
-             Intent i= new Intent(HomeActivity.this,FooduploadActivity.class);
+             Intent i= new Intent(HomeActivity.this,VoluteerActivity.class);
              startActivity(i);
          }
      });
