@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_visibility_ground_overlay.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_cdata.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\earthquakes.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\earthquakes.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\kmlgeometrytest.kml",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\kmlgeometrytest.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\radar_search.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\radar_search.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\radar_search.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\radar_search.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\police.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\police.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_visibility_ground_overlay.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_folders.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_placemark.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_extended_data.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\medicare.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\medicare.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ballon_gx_prefix.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\police.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\police.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_folder.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\usa.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\usa.json"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay_color.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_alpha.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\usa.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\usa.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unsupported.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_document_nest.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ground_overlay_color.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\earthquakes_with_usa.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\earthquakes_with_usa.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_placemark.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_folders.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\campus.kml",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\campus.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_document_nest.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\kmlgeometrytest.kml",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\kmlgeometrytest.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_cdata.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_default_balloon.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_extended_data.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\campus.kml",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\campus.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_ballon_gx_prefix.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unsupported.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\earthquakes.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\earthquakes.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_alpha.kml",
+        "source": "E:\\Maps Cluster\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_default_balloon.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "E:\\Maps Cluster\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\medicare.json",
+        "source": "E:\\Maps Cluster\\demo\\res\\raw\\medicare.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\earthquakes_with_usa.json",
+        "source": "E:\\android-maps-utils\\demo\\res\\raw\\earthquakes_with_usa.json"
+    },
+    {
+        "merged": "E:\\android-maps-utils\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_folder.kml",
+        "source": "E:\\android-maps-utils\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_basic_folder.kml"
+    }
+]

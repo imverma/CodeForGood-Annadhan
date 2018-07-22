@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:3:11-55
+	android:versionName
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:5:11-36
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:4:11-34
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:2:11-69
+permission#com.google.maps.android.utils.permission.MAPS_RECEIVE
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:7:5-9:50
+	android:protectionLevel
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:9:13-48
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:8:13-81
+uses-permission#com.google.maps.android.utils.permission.MAPS_RECEIVE
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:10:22-90
+uses-permission#android.permission.INTERNET
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:12:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\hardi\.android\build-cache\fb675001fabb91ab4741bdf8069dc66c33071996\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:13:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\hardi\.android\build-cache\fb675001fabb91ab4741bdf8069dc66c33071996\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:15:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:18:22-76
+uses-feature#0x00020000
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:20:5-22:38
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\hardi\.android\build-cache\fb675001fabb91ab4741bdf8069dc66c33071996\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:21:13-45
+	android:required
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:22:13-36
+application
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:24:5-53:19
+MERGED from [com.google.maps.android:library:0.5.1-SNAPSHOT] E:\Maps Cluster\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\hardi\.android\build-cache\fb675001fabb91ab4741bdf8069dc66c33071996\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\hardi\.android\build-cache\0eea7aca316d54a6b57f94b1383fe139e47fb907\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\hardi\.android\build-cache\d15421881521b9c32ac3983afb7e1004d3a8c8d1\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hardi\.android\build-cache\7277fae66900559730e833ad08cbeea7a0fdb7e3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hardi\.android\build-cache\bb77211bfb6174d07c11d97834693c2cbae9464e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hardi\.android\build-cache\4b4434f1c8abda9f9c847c795fdf903f50085d62\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hardi\.android\build-cache\c93af254daa34b166f645b824f68192be060c6fc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hardi\.android\build-cache\01f3ad9785bac58d7f63e7f3d703bd25ec974407\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hardi\.android\build-cache\8ead92f80e5af2a5f51b376b385d89d4010d4101\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:26:13-45
+	android:allowBackup
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:28:13-40
+	android:icon
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:27:13-54
+meta-data#com.google.android.gms.version
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:30:9-32:73
+MERGED from [com.google.maps.android:library:0.5.1-SNAPSHOT] E:\Maps Cluster\library\build\intermediates\bundles\default\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\hardi\.android\build-cache\d15421881521b9c32ac3983afb7e1004d3a8c8d1\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:32:17-70
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:31:17-62
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:34:9-36:74
+	android:value
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:36:17-72
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:35:17-62
+activity#com.google.maps.android.utils.demo.MainActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:38:9-45:20
+	android:label
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:40:17-49
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:39:17-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:43:27-74
+activity#com.google.maps.android.utils.demo.PolyDecodeDemoActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:47:9-59
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:47:19-57
+activity#com.google.maps.android.utils.demo.ClusteringDemoActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:48:9-59
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:48:19-57
+activity#com.google.maps.android.utils.demo.BigClusteringDemoActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:49:9-62
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:49:19-60
+activity#com.google.maps.android.utils.demo.VisibleClusteringDemoActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:50:9-66
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:50:19-64
+activity#com.google.maps.android.utils.demo.CustomMarkerClusteringDemoActivity
+ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:51:9-71
+	android:name
+		ADDED from E:\Maps Cluster\demo\AndroidManifest.xml:51:19-69
+uses-sdk
+INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.maps.android:library:0.5.1-SNAPSHOT] E:\Maps Cluster\library\build\intermediates\bundles\default\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\hardi\.android\build-cache\fb675001fabb91ab4741bdf8069dc66c33071996\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\hardi\.android\build-cache\0eea7aca316d54a6b57f94b1383fe139e47fb907\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\hardi\.android\build-cache\d15421881521b9c32ac3983afb7e1004d3a8c8d1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\hardi\.android\build-cache\7277fae66900559730e833ad08cbeea7a0fdb7e3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\hardi\.android\build-cache\bb77211bfb6174d07c11d97834693c2cbae9464e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\hardi\.android\build-cache\4b4434f1c8abda9f9c847c795fdf903f50085d62\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\hardi\.android\build-cache\c93af254daa34b166f645b824f68192be060c6fc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\hardi\.android\build-cache\01f3ad9785bac58d7f63e7f3d703bd25ec974407\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\hardi\.android\build-cache\8ead92f80e5af2a5f51b376b385d89d4010d4101\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\hardi\.android\build-cache\7277fae66900559730e833ad08cbeea7a0fdb7e3\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+		INJECTED from E:\Maps Cluster\demo\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\hardi\.android\build-cache\6397d6ac07a6282c53874e8b7d19496be1226df5\output\AndroidManifest.xml:19:19-85
