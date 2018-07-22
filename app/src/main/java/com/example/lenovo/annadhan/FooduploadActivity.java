@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class FooduploadActivity extends AppCompatActivity {
-    String server_url="http://192.168.43.130/php/food_drive.php";
+    String server_url="http://192.168.43.130/php/c.php";
     AlertDialog.Builder builder;
 
     TextView tvNoOfPpl,tvWhenCooked,tvDis,tvAnnadhanId;
@@ -139,9 +139,12 @@ Button btnPickUpLocation;
                     }
                 };
                 MySingleton.getInstance(FooduploadActivity.this).addToRequestque(stringRequest);
+                Intent i= new Intent(FooduploadActivity.this,RequestSuccessSubmission.class);
+                startActivity(i);
+
             }
 
-            Intent i= new Intent(FooduploadActivity.this,RequestSuccessSubmission.class);
+
 
         });
 
